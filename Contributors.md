@@ -233,6 +233,7 @@ Anshuk
 - [Rodrigo Castro](https://github.com/rodrigoc-dev)
 - [Sahil Vishwakarma](https://github.com/sahilvish01)
 - Ponapati Spandana
+- [jeongwool](https://github.com/jeongwool)
 - [klmpt](https://github.com/klmpt)
 - [Omkar-ks](https://github.com/omkar-k-s)
 - [zLeonelDev](https://github.com/zLeonelDev)
